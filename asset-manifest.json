@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e2649405.chunk.css",
-    "main.js": "/portfolio/static/js/main.8c5612eb.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8c5612eb.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.674420b2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.674420b2.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.6506b0be.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.6506b0be.js.map",
     "static/js/2.ac570a3d.chunk.js": "/portfolio/static/js/2.ac570a3d.chunk.js",
@@ -16,10 +16,11 @@
     "static/media/game2_bt.e1468461.png": "/portfolio/static/media/game2_bt.e1468461.png",
     "static/media/games.6ffee609.jpg": "/portfolio/static/media/games.6ffee609.jpg",
     "static/media/ml.216df2e1.jpg": "/portfolio/static/media/ml.216df2e1.jpg",
+    "static/media/other_api.4ebed3d6.png": "/portfolio/static/media/other_api.4ebed3d6.png",
     "static/media/other_icon.235bb0b4.jpg": "/portfolio/static/media/other_icon.235bb0b4.jpg",
-    "static/media/slider-1.56495819.png": "/portfolio/static/media/slider-1.56495819.png",
-    "static/media/slider-2.7dd93a12.png": "/portfolio/static/media/slider-2.7dd93a12.png",
-    "static/media/slider-3.599074fe.png": "/portfolio/static/media/slider-3.599074fe.png",
+    "static/media/slider-1.bdac0b40.png": "/portfolio/static/media/slider-1.bdac0b40.png",
+    "static/media/slider-2.6c87af08.png": "/portfolio/static/media/slider-2.6c87af08.png",
+    "static/media/slider-3.0690223b.png": "/portfolio/static/media/slider-3.0690223b.png",
     "static/media/video-1.6652a867.mp4": "/portfolio/static/media/video-1.6652a867.mp4",
     "static/media/webdev.f0d0181d.jpg": "/portfolio/static/media/webdev.f0d0181d.jpg",
     "static/media/webdev_vera.4c48afbd.png": "/portfolio/static/media/webdev_vera.4c48afbd.png"
@@ -28,6 +29,6 @@
     "static/js/runtime-main.6506b0be.js",
     "static/js/2.ac570a3d.chunk.js",
     "static/css/main.e2649405.chunk.css",
-    "static/js/main.8c5612eb.chunk.js"
+    "static/js/main.674420b2.chunk.js"
   ]
 }
